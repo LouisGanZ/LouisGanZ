@@ -67,7 +67,7 @@ Brainly mempunyai aturan yaitu,
 ### MY TEAM
 ---------
 
-| [![Saya](https://github.com/Riizx.png?size=100)](https://github.com/RiizX) | [![hm](https://github.com/MD-XLouis.png?size=100)](https://github.com/MD-XLouis) | [![lm](https://github.com/IamNotGanz.png?size=100)](https://github.com/IamNotGanz) | [![Sya](https://github.com/KipasGTS.png?size=100)](https://github.com/KipasGTS)|
+| [![Saya](https://github.com/Riizx.png?size=1000)](https://github.com/RiizX) | [![hm](https://github.com/MD-XLouis.png?size=1000)](https://github.com/MD-XLouis) | [![lm](https://github.com/IamNotGanz.png?size=1000)](https://github.com/IamNotGanz) | [![Sya](https://github.com/KipasGTS.png?size=1000)](https://github.com/KipasGTS)|
 |------|------|------|------|
 | RiizX | MD-XLouis | IamNotGanz | KipasGTS | [![Saya]
   
