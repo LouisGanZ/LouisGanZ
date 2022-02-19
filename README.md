@@ -108,5 +108,3 @@ Brainly mempunyai aturan yaitu,
 --------
 
 ## ⬇Thank You⬇
-
-  
