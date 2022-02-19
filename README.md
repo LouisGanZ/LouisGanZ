@@ -9,9 +9,9 @@
 <p align="center">
 <a href="https://github.com/MD-XLouis"><img title="ADMIN" src="https://img.shields.io/badge/AUTHOR-MD XLouis-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<div align="center">
-  ## Pengertian Dari Brainly
-  Brainly merupakan **sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.
+<div align="center">  
+  Pengertian Dari Brainly
+  Brainly merupakan sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.
 
 Brainly biasa digunakan untuk,
 - Menanyakan pertanyaan kepada users yang pintar atau jago
