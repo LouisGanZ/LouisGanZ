@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   ## Pengertian Dari Brainly
-  **Brainly** merupakan **sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.**
+  Brainly merupakan **sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.
 
 Brainly biasa digunakan untuk,
 - Menanyakan pertanyaan kepada users yang pintar atau jago
@@ -45,7 +45,7 @@ Brainly mempunyai aturan yaitu,
 |Tidak boleh Berkomentar + 18|✔|
 |Jawaban harus lengkap|✔|
 |Ada kesalahan silahkan ke FAQ |✔|
-|Jika ada Warn Maka harus tunggu 2 Minggu Tidak boleh komentar Kasar|✔**Brainly** merupakan **sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.**
+|Jika ada Warn Maka harus tunggu 2 Minggu Tidak boleh komentar Kasar|✔
 
 
 <details>
