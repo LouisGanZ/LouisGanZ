@@ -10,6 +10,44 @@
 <a href="https://github.com/MD-XLouis"><img title="ADMIN" src="https://img.shields.io/badge/AUTHOR-MD XLouis-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <div align="center">
+  ## Pengertian Dari Brainly
+  **Brainly** merupakan **sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.**
+
+Brainly biasa digunakan untuk,
+- Menanyakan pertanyaan kepada users yang pintar atau jago
+- Menanyakan Quiz
+- Mengikuti Quiz
+- Mengukuti Competition (Seperti, Team Moderator Optimis, DLL)
+- Menjawab Pertanyaan Users yang mau menanyakan
+- Berkomentar 
+- Rating, like, BA
+- Terverifikasi jawaban
+- Jawab Dengan benar
+- Menghapus Jawaban Yang bersifat komentar, default, dll
+- Memgembangkan Ilmu pengetahuan
+- Membaca buku
+- Memngepush Poin
+- Rank Ungu/Purple/Bergengsi
+- Memngepush Rank
+
+## Aturan brainly
+
+Brainly mempunyai aturan yaitu,
+
+|Aturan|✔|
+|------|--|
+|Jawaban harus karya sendiri|✔|
+|Harus sesuai dengan Penanya|✔|
+|Jawaban Max.Grade 3 Untuk menjadi Moderator|✔|
+|Jawaban tidak boleh Copas (CopyPaste)|✔|
+|Menjawab tidak boleh Melalui Buku|✔|
+|tidak boleh berkomentar kasar|✔|
+|Tidak boleh Berkomentar + 18|✔|
+|Jawaban harus lengkap|✔|
+|Ada kesalahan silahkan ke FAQ |✔|
+|Jika ada Warn Maka harus tunggu 2 Minggu Tidak boleh komentar Kasar|✔**Brainly** merupakan **sebuah perusahaan pendidikan swasta yang berbasis teknologi dan layanan web belajar yang memungkinkan penggunanya untuk saling bertanya dan menjawab pertanyaan terkait dengan pelajaran sekolah secara umum terbuka ke pengguna lainnya.**
+
+
 <details>
   
   
