@@ -78,7 +78,7 @@ Brainly mempunyai aturan yaitu,
 
 <p align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MD-XLouis&repo=MD-XLouis&theme=highcontrast)](https://github.com/LouisGanZ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisGanZ&repo=LouisGanZ&theme=highcontrast)](https://github.com/LouisGanZ)
 
 </p>
 
@@ -96,7 +96,7 @@ Brainly mempunyai aturan yaitu,
   <p align="center">
 <a href="https://github.com/LouisGanZ/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MD-XLouis&layout=compact&theme=material-white" /
+  <img align="center" src="https://github-readme-ostats.anuraghazra1.vercel.app/api/top-langs/?username=LouisGanZ&layout=compact&theme=material-white" /
   </p>
    
 
