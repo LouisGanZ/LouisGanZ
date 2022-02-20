@@ -4,10 +4,10 @@
   </p>
 <br>
 <p align="center">
- <a href="#"><img title="🐊 MD XLouis 🐊" src="https://img.shields.io/badge/MD X Louis-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="🐊 LouisGanZ 🐊" src="https://img.shields.io/badge/LouisGanZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MD-XLouis"><img title="ADMIN" src="https://img.shields.io/badge/AUTHOR-MD XLouis-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/LouisGanZ"><img title="ADMIN" src="https://img.shields.io/badge/AUTHOR-LouisGanZ-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <div align="center">  
   Pengertian Dari Brainly
@@ -67,9 +67,9 @@ Brainly mempunyai aturan yaitu,
 ### MY TEAM
 ---------
 
-| [![Saya](https://github.com/Riizx.png?size=1000)](https://github.com/RiizX) | [![hm](https://github.com/MD-XLouis.png?size=1000)](https://github.com/MD-XLouis) | [![lm](https://github.com/IamNotGanz.png?size=1000)](https://github.com/IamNotGanz) | [![Sya](https://github.com/KipasGTS.png?size=1000)](https://github.com/KipasGTS)|
+| [![Saya](https://github.com/Riizx.png?size=1000)](https://github.com/RiizX) | [![hm](https://github.com/LouisGanZ.png?size=1000)](https://github.com/LouisGanZ) | [![lm](https://github.com/IamNotGanz.png?size=1000)](https://github.com/IamNotGanz) | [![Sya](https://github.com/KipasGTS.png?size=1000)](https://github.com/KipasGTS)|
 |------|------|------|------|
-| RiizX | MD-XLouis | IamNotGanz | KipasGTS | [![Saya]
+| RiizX | LouisGanZ | IamNotGanz | KipasGTS | [![Saya]
   
   ------------------
 
@@ -78,7 +78,7 @@ Brainly mempunyai aturan yaitu,
 
 <p align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MD-XLouis&repo=MD-XLouis&theme=highcontrast)](https://github.com/MD-XLouis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MD-XLouis&repo=MD-XLouis&theme=highcontrast)](https://github.com/LouisGanZ)
 
 </p>
 
@@ -88,13 +88,13 @@ Brainly mempunyai aturan yaitu,
 -----------
 
 <p align="center">
-<a href="https://github.com/MD-XLouis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MD-XLouis&show_icons=true&include_all_commits=true&theme=material-white" alt="MD-XLouis github stats" />
+<a href="https://github.com/LouisGanZ/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LouisGanZ&show_icons=true&include_all_commits=true&theme=material-white" alt="LouisGanZ github stats" />
 </a>
 </p>
   
   <p align="center">
-<a href="https://github.com/MD-XLouis/github-readme-stats">
+<a href="https://github.com/LouisGanZ/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MD-XLouis&layout=compact&theme=material-white" /
   </p>
@@ -102,7 +102,7 @@ Brainly mempunyai aturan yaitu,
 
   <p align="center">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MD-XLouis&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=LouisGanZ&label=VIEWS&style=flat-square&color=black" />
 </p>
 
 --------
