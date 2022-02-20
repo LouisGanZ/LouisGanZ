@@ -102,7 +102,7 @@ Brainly mempunyai aturan yaitu,
 
   <p align="center">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LouisGanZ&label=VIEWS&style=flat-square&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=LouisGanZ&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 --------
